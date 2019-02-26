@@ -1,0 +1,25 @@
+{
+    "employees": [
+      {
+        "id": 7113,
+        "name": "James Norris",
+        "salary": 10000,
+        "location": "Chennai",
+        "department": "IT"
+      },
+      {
+        "id": 7114,
+        "name": "Mary Lamb",
+        "salary": 5000,
+        "location": "Delhi",
+        "department": "BPO"
+      },
+      {
+        "id": 7115,
+        "name": "Robert Shoemaker",
+        "salary": 10000,
+        "location": "Bangalore",
+        "department": "HR"
+      }
+    ]
+  }
